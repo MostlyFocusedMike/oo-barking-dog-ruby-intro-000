@@ -3,7 +3,7 @@ class Dog
   attr_writer :name
   
   def bark
-    puts ""
+    puts "woof!"
   end
 end
 
