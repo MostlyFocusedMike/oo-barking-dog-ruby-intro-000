@@ -1,5 +1,9 @@
 # Your code goes here!
 class Dog
   attr_writer :name
+  
+  def bark
+    puts ""
+  end
 end
 
