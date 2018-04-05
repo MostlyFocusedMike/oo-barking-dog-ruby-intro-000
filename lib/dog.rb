@@ -1,7 +1,5 @@
 # Your code goes here!
 class Dog
-  # def initialize(name)
-  #   @name = name
-  # end
+  attr_writer :name
 end
 
